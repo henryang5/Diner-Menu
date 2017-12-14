@@ -1,0 +1,10 @@
+F:\HenryAng-Homework1\HenryAng-Homework1\bin\Debug\HenryAng-Homework1.exe.config
+G:\HenryAng-Homework1\HenryAng-Homework1\bin\Debug\HenryAng-Homework1.exe.config
+G:\HenryAng-Homework1\HenryAng-Homework1\bin\Debug\HenryAng-Homework1.exe
+G:\HenryAng-Homework1\HenryAng-Homework1\bin\Debug\HenryAng-Homework1.pdb
+G:\HenryAng-Homework1\HenryAng-Homework1\obj\Debug\HenryAng-Homework1.csprojResolveAssemblyReference.cache
+G:\HenryAng-Homework1\HenryAng-Homework1\obj\Debug\HenryAng_Homework1.Properties.Resources.resources
+G:\HenryAng-Homework1\HenryAng-Homework1\obj\Debug\HenryAng-Homework1.csproj.GenerateResource.Cache
+G:\HenryAng-Homework1\HenryAng-Homework1\obj\Debug\HenryAng-Homework1.exe
+G:\HenryAng-Homework1\HenryAng-Homework1\obj\Debug\HenryAng-Homework1.pdb
+G:\HenryAng-Homework1\HenryAng-Homework1\obj\Debug\HenryAng_Homework1.FrmRestaurant.resources
